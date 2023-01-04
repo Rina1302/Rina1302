@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rinapawar2509@gmail.com**
 
-- ⚡ Fun fact **Fun fact I am passionate about Chess!**
+- ⚡ Fun fact ** I am passionate about Chess!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
