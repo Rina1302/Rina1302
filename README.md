@@ -10,7 +10,7 @@
 - 📫 How to reach me **rinapawar2509@gmail.com**
 
 - ⚡ Fun fact ** I am passionate about Chess!**
-
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rinapawar13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinapawar13" height="30" width="40" /></a>
